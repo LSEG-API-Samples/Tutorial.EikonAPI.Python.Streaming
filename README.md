@@ -9,7 +9,7 @@ This project contains Jupyter Notebook examples that demonstrate how to use the 
 
 These notebooks are part of [the How to retrieve real-time streaming data](https://developers.refinitiv.com/content/how-retrieve-real-time-streaming-data) Eikon Data API tutorial that is one of the many learning materials published on the [Refinitv Developer Community](https://developers.refinitiv.com) to help developers learning Refinitiv APIs.
 
-For any question or comment related to this tutorial please use the _ADD YOUR COMMENT_ section at the bottom of this page or post a question on the [Eikon Data API Q&A Forum](https://community.developers.refinitiv.com/spaces/92/index.html) of the Developer Community.
+For any question or comment related to these tutorials please post a question on the [Eikon Data API Q&A Forum](https://community.developers.refinitiv.com/spaces/92/index.html) of the Developer Community.
 
 _**Note:** To be able to ask questions and to benefit from the full content available on the Refinitiv Community portal we recommend you to [register here](https://developers.refinitiv.com/iam/register) or [login here](https://developers.refinitiv.com/iam/login?destination_path=Lw%3D%3D)._
 
@@ -19,4 +19,4 @@ Jupyter Notebook examples presented here have been written by Refinitiv for the 
 ## <a id="prerequisites"></a>Prerequisites
 
 Required software components:
- * Eikon 4 or Refinitiv Workspace 1.8 or higher 
+ * Either Eikon 4.0.36 (or higher) or Refinitiv Workspace 1.8 (or higher) 
