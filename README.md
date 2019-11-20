@@ -5,7 +5,7 @@ Tutorial notebooks explaining how to retrieve streaming data with the Eikon Data
 This project contains Jupyter Notebook examples that demonstrate how to use the Eikon Data API to retrieve streaming real-time data. These Jupyter Notebooks show you how to use the Eikon Data API for the following use case:
 
 * [Using the Eikon Data API as a real-time cache](https://github.com/Refinitiv-API-Samples/Tutorial.EikonAPI.Python.Streaming/blob/master/01%20-%20Eikon%20Data%20API%20-%20StreamingPrices%20as%20a%20cache.ipynb)
-* [Using the Eikon Data API to receive update events](https://github.com/Refinitiv-API-Samples/Tutorial.EikonAPI.Python.Streaming/blob/master/02%20-%20Eikon%20Data%20API%20-%20StreamingPrices%20with%20events.ipynb)
+* [Using the Eikon Data API to receive streaming events](https://github.com/Refinitiv-API-Samples/Tutorial.EikonAPI.Python.Streaming/blob/master/02%20-%20Eikon%20Data%20API%20-%20StreamingPrices%20with%20events.ipynb)
 
 These notebooks are part of [the How to retrieve real-time streaming data](https://developers.refinitiv.com/content/how-retrieve-real-time-streaming-data) Eikon Data API tutorial that is one of the many learning materials published on the [Refinitv Developer Community](https://developers.refinitiv.com) to help developers learning Refinitiv APIs.
 
