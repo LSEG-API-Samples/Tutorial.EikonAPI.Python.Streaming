@@ -20,4 +20,4 @@ Jupyter Notebook examples presented here have been written by Refinitiv for the 
 
 Required software components:
  * Either Eikon 4.0.36 (or higher) or Refinitiv Workspace 1.8 (or higher) 
- * [Eikon Data API for Python 1.1.2b0](https://pypi.org/project/eikon/1.1.2b0/) (or higher)
+ * [Eikon Data API for Python 1.1.2](https://pypi.org/project/eikon/1.1.2/) (or higher)
